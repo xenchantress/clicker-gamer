@@ -2,6 +2,70 @@
   text-align: center;
 }
 
+.clickButton {
+  padding: 15px;
+  font-size: 20px;
+  cursor: pointer;
+  text-decoration:dashed;
+  background-color: #f29cc8;
+  border-radius: 75%;
+
+}
+
+.building,
+.upgrade {
+  border: 5px solid #158c8e;
+  border-radius:10%;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.upgrades .locked {
+  opacity: 0.5;
+  color: #100f10;
+}
+
+.statistics {
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +99,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
